@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+.idea/*
+bin/*
+lib/*
+.Python/*
+include/*
+
+frontend/node_modules/*
+backend/.env/*
